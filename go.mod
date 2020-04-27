@@ -1,4 +1,4 @@
-module github.com/kawamou/go-crawler
+module github.com/kawamou/go-gcs-wrapper
 
 go 1.13
 
